@@ -1,0 +1,12 @@
+# Ignore environment files
+**/.env
+
+# Ignore npm authentication files
+**/.npmrc
+
+# Ignore node_modules
+**/node_modules
+
+# Ignore build folders
+**/dist
+dist
