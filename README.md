@@ -44,7 +44,7 @@ Generate beautiful React UI components using natural language, customize them wi
 ---
 
 ### 📦 NPM Package
-https://www.npmjs.com/package/virtual-ui-component-own
+npm i virtual-ui-component-own
 
 ### 💻 GitHub Repository
 https://github.com/tushar-342/Own-UI
