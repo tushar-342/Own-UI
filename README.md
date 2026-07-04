@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 VirtualAI
+# 🚀 Own-UI
 
 ### Build Production-Ready React Components with AI in Seconds
 
@@ -53,17 +53,17 @@ https://github.com/tushar-342/Own-UI
 
 # 📖 Overview
 
-VirtualAI is a full-stack AI-powered React UI Component Platform that enables developers to generate production-ready React components using natural language prompts.
+Own-UI is a full-stack AI-powered React UI Component Platform that enables developers to generate production-ready React components using natural language prompts.
 
 Instead of manually building repetitive UI elements, developers can generate customizable components, preview them in real time, modify props dynamically, publish reusable components, and distribute them through npm—all from a single platform.
 
 The project combines AI-assisted UI generation, component management, authentication, cloud deployment, and package publishing into a modern developer workflow.
 
-# ✨ Why VirtualAI?
+# ✨ Why Own-UI?
 
 Building reusable UI components repeatedly is time-consuming.
 
-VirtualAI simplifies frontend development by combining AI, reusable component libraries, and cloud deployment into one seamless platform.
+Own-UI simplifies frontend development by combining AI, reusable component libraries, and cloud deployment into one seamless platform.
 
 ### It provides:
 
@@ -246,7 +246,7 @@ Install via npm
 
 # 💳 AI Credit System
 
-VirtualAI follows a credit-based usage model to ensure fair access to AI resources while supporting a scalable SaaS architecture.
+Own-UI follows a credit-based usage model to ensure fair access to AI resources while supporting a scalable SaaS architecture.
 
 ## How It Works
 
@@ -278,7 +278,7 @@ The credit system prevents abuse of AI resources while providing users with a se
 
 # 💳 Razorpay Payment Integration
 
-VirtualAI integrates **Razorpay** to provide a secure and seamless payment experience for purchasing additional AI credits.
+Own-UI integrates **Razorpay** to provide a secure and seamless payment experience for purchasing additional AI credits.
 
 ## Features
 
