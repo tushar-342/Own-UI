@@ -243,3 +243,209 @@ Publish Component
 ↓
 
 Install via npm
+
+# 💳 AI Credit System
+
+VirtualAI follows a credit-based usage model to ensure fair access to AI resources while supporting a scalable SaaS architecture.
+
+## How It Works
+
+- 🎁 Every new user receives **150 free AI credits** after signing in.
+- 🤖 Each AI component generation consumes credits.
+- 📊 The remaining credit balance is displayed inside the user dashboard.
+- ⚡ Users can continue generating components until their credits are exhausted.
+- 💰 Additional credits can be purchased securely through Razorpay.
+
+## Credit Workflow
+
+```text
+Google Login
+      │
+      ▼
+Receive 150 Free Credits
+      │
+      ▼
+Generate AI Components
+      │
+      ▼
+Credits Deducted
+      │
+      ▼
+Remaining Credits Updated
+```
+
+The credit system prevents abuse of AI resources while providing users with a seamless experience for generating production-ready React components.
+
+# 💳 Razorpay Payment Integration
+
+VirtualAI integrates **Razorpay** to provide a secure and seamless payment experience for purchasing additional AI credits.
+
+## Features
+
+- 🔒 Secure payment processing
+- ⚡ Instant credit allocation after successful payment
+- 📦 Subscription-ready architecture
+- 🧾 Backend payment verification
+- 💰 Automatic credit balance update
+
+## Payment Workflow
+
+```text
+Credits Exhausted
+      │
+      ▼
+Choose Premium Plan
+      │
+      ▼
+Razorpay Checkout
+      │
+      ▼
+Secure Payment
+      │
+      ▼
+Payment Verification
+      │
+      ▼
+Credits Added to User Account
+      │
+      ▼
+Continue AI Component Generation
+```
+
+This payment flow enables VirtualAI to operate as a scalable SaaS platform while providing a smooth purchasing experience for users.
+
+# 📊 Dashboard Overview
+
+Own-UI includes a powerful admin dashboard that provides complete visibility into platform activity and simplifies component management.
+
+## Dashboard Features
+
+- 📈 Real-time platform analytics
+- 👥 Total registered users
+- 📦 Published component statistics
+- 🔍 Search public components
+- ➕ Publish new components
+- 📊 Component usage insights
+- ⚡ Responsive admin interface
+
+The dashboard enables administrators to efficiently manage the component ecosystem while monitoring user engagement and platform growth.
+
+---
+
+# 📦 NPM Package
+
+Own-UI provides a published React component library that allows developers to install reusable UI components directly into their projects.
+
+## Installation
+
+```bash
+npm install virtual-ui-lib
+```
+
+## Usage
+
+```jsx
+import { Button } from "virtual-ui-lib";
+
+function App() {
+  return (
+    <Button text="Get Started" />
+  );
+}
+
+export default App;
+```
+
+### Benefits
+
+- 📦 Easy installation through npm
+- ⚡ Reusable production-ready components
+- 🎨 Customizable props
+- 🔄 Version-controlled updates
+- 🚀 Faster UI development
+
+---
+
+# ☁️ Deployment
+
+Own-UI is deployed as a production-ready SaaS application.
+
+| Service | Live URL |
+|---------|----------|
+| 🌐 Frontend | https://own-ui-main.onrender.com |
+| ⚙️ Backend | https://own-ui.onrender.com |
+| 📦 NPM Package | https://www.npmjs.com/package/virtual-ui-lib |
+
+### Deployment Highlights
+
+- Production-ready React frontend
+- Secure Express backend
+- MongoDB Atlas database
+- Google OAuth authentication
+- Razorpay payment integration
+- Published npm package
+
+---
+
+# 📚 Lessons Learned
+
+Developing Own-UI provided valuable experience in building and deploying a full-stack AI-powered SaaS platform.
+
+## Key Learnings
+
+- Designing scalable MERN applications
+- Integrating AI into real-world workflows
+- Implementing secure Google OAuth authentication
+- Building a credit-based SaaS business model
+- Integrating Razorpay payment gateway
+- Publishing reusable React components to npm
+- Managing production deployments
+- Creating responsive and reusable UI systems
+
+---
+
+# 👨‍💻 Author
+
+## Tushar Kumar
+
+Full-Stack MERN Developer passionate about building AI-powered SaaS applications, scalable backend systems, and modern React experiences.
+
+### Connect With Me
+
+- 💻 GitHub: https://github.com/tushar-342
+- 💼 LinkedIn: *(https://www.linkedin.com/in/tushar-kumar-he-him-3rd-44aa09281/)*
+- 📧 Email: *(tusharkrverma224@gmail.com)*
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to improve Own-UI:
+
+1. Fork the repository.
+2. Create a new feature branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
+
+For major changes, please open an issue first to discuss your proposed improvements.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+Feel free to use, modify, and distribute this project in accordance with the license terms.
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+Your support motivates me to continue building open-source projects and developer tools.
+
+Thank you for visiting the Own-UI repository! 🚀
